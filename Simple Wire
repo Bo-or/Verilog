@@ -1,9 +1,0 @@
-module top_module( input in, output out );
-    assign out=in
-endmodule
-
-
-
-\*Create a module with one input and one output that behaves like a wire.
-
-Unlike physical wires, wires (and other signals) in Verilog are directional. This means information flows in only one direction, from (usually one) source to the sinks *\
