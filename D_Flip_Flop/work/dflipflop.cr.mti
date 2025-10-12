@@ -1,0 +1,15 @@
+{C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/d_ff_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/d_ff_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module d_ff_tb
+
+Top level modules:
+	d_ff_tb
+
+} {} {}} {C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/dflipflop.v} {1 {vlog -work work -vopt -stats=none {C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/dflipflop.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}}

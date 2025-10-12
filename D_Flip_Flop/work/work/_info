@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/shiva/OneDrive/Desktop/verilog/New folder/work
+T_opt
+!s110 1760177073
+VXiNhz<?>DNon]ATU:MYJD2
+04 7 4 work d_ff_tb fast 0
+=1-50bbb5603a8e-68ea2bb1-349-28c0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vd_ff
+Z1 !s110 1760177054
+!i10b 1
+!s100 `cajW6iBG<CRlXjf<6_`;1
+IIJK1l:nZm2k_U?X^kHYGM1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/work
+w1760176241
+8C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/dflipflop.v
+FC:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/dflipflop.v
+L0 1
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z5 !s108 1760177054.000000
+!s107 C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/dflipflop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/dflipflop.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vd_ff_tb
+R1
+!i10b 1
+!s100 =60HX>H:BLRX6T<dm3DAn1
+I__D8VdWlkZY?zC9glo:G<2
+R2
+R3
+w1760177051
+8C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/d_ff_tb.v
+FC:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/d_ff_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/d_ff_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/shiva/OneDrive/Desktop/ER and DCI/Lab EXP/D_Flip_Flop/SRC/d_ff_tb.v|
+!i113 0
+R6
+R0
