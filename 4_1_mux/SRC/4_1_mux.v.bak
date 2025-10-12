@@ -1,0 +1,14 @@
+module 4_1_mux(
+input wire [3:0]i,
+output reg q,
+input wire[1:0]sel);
+
+always@(*) begin
+case(sel)
+2'b00: q=i[0];
+2'b01: q=i[1];
+2'b10: q=i[2];
+2'b11: q=i[3];
+endcase
+end
+endmodule
